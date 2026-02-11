@@ -10,7 +10,12 @@ body{
 .header{
     width:90%;
     margin:auto:
-    height:120
+    height:120px;
+    line-height:120px;
+    background:#417aa8;
+    color:#fff
+}
+
 
 
 
