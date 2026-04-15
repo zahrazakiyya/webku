@@ -9,11 +9,10 @@ body{
 .header{
     width:90%;
     margin:auto;
-    height:auto;
+    height:120px;
     line-height:120px;
     background:#417aa8;
     color:#fff;
-    padding: 20px 0;
 }
 
 .jarak{
